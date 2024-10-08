@@ -44,3 +44,13 @@ body {
 .read-the-docs {
   color: #888;
 }
+
+/* button {
+  margin-left: 10px;
+} */
+
+form {
+  display: flex;
+  gap: 15px;
+  align-items: center;
+}
